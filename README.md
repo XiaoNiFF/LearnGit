@@ -1,4 +1,4 @@
-# LearnGiy笔记
+# LearnGit笔记
 ## 初始化仓库提交一次修改
 
 ### 在github中新建LearnGit仓库,不要初始化readme.然后连接至远程库
